@@ -1,0 +1,90 @@
+body {
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 16px;
+  line-height: 1.375em;
+}
+
+nav {
+  background-color: rgba(0,0,0,.5);
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: orange;
+}
+
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
+
+h1 {
+  font-size: 3em;
+  line-height: 1.05em;
+  padding-bottom: 12px;
+}
+
+h3 {
+  font-size: 1.75em;
+  line-height: 1.25em;
+  padding-bottom: 12px;
+}
+
+.author {
+  font-size: .9em;
+  padding-bottom: 12px;
+}
+
+figcaption {
+  font-size: .8em;
+  padding-bottom: 20px;
+
+}
+
+p {
+  line-height: 120%;
+}
