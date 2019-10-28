@@ -16,10 +16,17 @@ a {
   text-decoration: none;
 }
 
+a:link {
+  color:black
+}
+
+a:visited {
+  color: blue;
+}
+
 a:hover {
   color: orange;
 }
-
 
 .logo {
   margin: 20px;
@@ -87,4 +94,5 @@ figcaption {
 
 p {
   line-height: 120%;
+  padding-bottom: 15px;
 }
