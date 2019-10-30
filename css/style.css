@@ -7,17 +7,13 @@ body {
 
 nav {
   background-color: rgba(0,0,0,.5);
-  float: left;
   position: fixed;
   width: 100%;
 }
 
-a {
-  text-decoration: none;
-}
-
 a:link {
-  color:black
+  color: white;
+  text-decoration: none;
 }
 
 a:visited {
@@ -31,28 +27,22 @@ a:hover {
 .logo {
   margin: 20px;
   width: 100px;
+  float: left;
 }
 
-.large-pic {
-  width: 100%;
-}
 
 .medium-pic {
   width: 70%;
 }
 
 .left, .right {
-  float: left;
   width: 50%;
 }
 
-.right {
-  float: right;
-}
 
 ul {
-  list-style-type: none;
   float: right;
+  list-style-type: none;
 }
 
 li {
