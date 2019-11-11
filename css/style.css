@@ -60,24 +60,24 @@ article {
 }
 
 h1 {
-  font-size: 3em;
-  line-height: 1.05em;
+  font-size: 48px;
+  line-height: 106%;
   padding-bottom: 12px;
 }
 
 h3 {
-  font-size: 1.75em;
-  line-height: 1.25em;
+  font-size: 28px;
+  line-height: 120%;
   padding-bottom: 12px;
 }
 
 .author {
-  font-size: .9em;
+  font-size: 14.4px;
   padding-bottom: 12px;
 }
 
 figcaption {
-  font-size: .8em;
+  font-size: 12.8px;
   padding-bottom: 20px;
 
 }
